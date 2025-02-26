@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Janmey-Sachdev
+- 👋 Hi, I’m Janmey Sachdev
 - 👀 I’m interested in coding, like a lot.
 - 🌱 I’m currently learning in 4th class. 
 - 💞️ I’m looking to collaborate on to make my own computer company. 
